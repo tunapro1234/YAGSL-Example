@@ -7,7 +7,7 @@ You can just put "victorspx" in the type section of the module json files. BE AW
 VictorSPX class uses the absolute encoder on the module, so make sure that you provide one in the module json configs. 
 You can take a look at a good example config from the src/main/deploy/swerve/nftest folder.
 
-I didnt test these codes on a real robot, use with caution.
+
 <br>
 
 ## YAGSL Example
